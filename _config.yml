@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://emmawinston.github.io/
-baseurl: /sustain/
+url: http://emmawinston.github.io
+baseurl: /
 title: Emma Winston
 author: Emma Winston
 description: Academic and musician
