@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Cat Simulator 3000
+tags:
+- Projects
+- Code
+- Writing
+---
+
+<h1 id="heading1">Cat Simulator 3000</h1>
+
+<p>A hypertext adventure game built in the Twine engine, Cat Simulator 3000 was built in a weekend and was as much a creative writing experiment as a coding one. You play a cat who has to wreak as much havoc in your owner's house as possible before they get home.</p>
+
+<p>You can play or download Cat Simulator 3000 <a href="http://deerful.itch.io/cat-simulator-3000">here</a>.
