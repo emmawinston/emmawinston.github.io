@@ -113,6 +113,11 @@ body {
   line-height: 24px;
   font-size: 22px;
 }
+
+#projects .panel-default h4 {
+  font-size: 24px;
+}
+
 .panel-default h5 {
   text-align: left;
   line-height: 30px;
