@@ -204,6 +204,7 @@ a.back-to-top {
 
 a:hover .label-success, a:focus .label-success {
   background-color: #000;
+  text-decoration: none;
 }
 
 #projects h4 {
