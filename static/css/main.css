@@ -202,6 +202,10 @@ a.back-to-top {
   border-radius: 30px;
 }
 
+a.back-to-top:hover, a.back-to-top:focus {
+  background: #267723 url("up-arrow.png") no-repeat center 43%;
+}
+
 a:hover .label-success, a:focus .label-success {
   background-color: #267723;
   text-decoration: none;
