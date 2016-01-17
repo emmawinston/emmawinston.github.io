@@ -114,10 +114,6 @@ body {
   font-size: 22px;
 }
 
-#projects h4 {
-  font-size: 24px;
-}
-
 .panel-default h5 {
   text-align: left;
   line-height: 30px;
@@ -204,4 +200,8 @@ a.back-to-top {
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   border-radius: 30px;
+}
+
+#projects h4 {
+  font-size: 24px;
 }
