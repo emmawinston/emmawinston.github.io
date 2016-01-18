@@ -21,7 +21,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="{{ site.author }}" />
+  {% if page.projects %}
+    <meta name="description" content="A list of projects by Emma Winston, an academic and musician based in London UK.">
+  {% else % }
     <meta name="description" content="{{ site.description }}">
+  {% endif %}
     <link rel="favicon" href="{{ site.url }}/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ site.url }}/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/apple-touch-icon-114x114.png" />
