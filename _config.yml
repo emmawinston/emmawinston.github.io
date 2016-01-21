@@ -9,6 +9,7 @@ gems: [jekyll-paginate]
 port: 3000
 safe: true
 
+permalink: /blog/:categories/:year/:month/:day/:title.html
 
 # edit here to achieve your personal greatness
 url: http://emmawinston.me
