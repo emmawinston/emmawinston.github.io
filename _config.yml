@@ -1,3 +1,5 @@
+permalink: /blog/:categories/:year/:month/:day/:title.html
+
 # top level stuff you probably don't need to touch
 highlighter: pygments
 markdown: rdiscount
@@ -8,8 +10,6 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 3000
 safe: true
-
-permalink: /blog/:categories/:year/:month/:day/:title.html
 
 # edit here to achieve your personal greatness
 url: http://emmawinston.me
