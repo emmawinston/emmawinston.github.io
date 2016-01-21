@@ -10,7 +10,7 @@ rdiscount:
 permalink: pretty
 paginate: 5
 port: 3000
-safe: true
+safe: false
 
 # edit here to achieve your personal greatness
 url: http://emmawinston.me
