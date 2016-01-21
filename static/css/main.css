@@ -225,6 +225,6 @@ a:hover .label-success, a:focus .label-success {
   color: inherit;
 }
 
-.backbuttonlink {
+.container .backbuttonlink {
   text-align: left;
 }
