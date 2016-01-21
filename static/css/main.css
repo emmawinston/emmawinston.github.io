@@ -224,3 +224,7 @@ a:hover .label-success, a:focus .label-success {
   line-height: 1.1;
   color: inherit;
 }
+
+.container .backbutton {
+  text-align: left;
+}
