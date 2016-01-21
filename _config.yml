@@ -1,11 +1,11 @@
-permalink: /blog/:categories/:year/:month/:day/:title.html
+
 
 # top level stuff you probably don't need to touch
 highlighter: pygments
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+permalink: pretty
 paginate: 5
 gems: [jekyll-paginate]
 port: 3000
