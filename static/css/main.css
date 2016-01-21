@@ -226,5 +226,5 @@ a:hover .label-success, a:focus .label-success {
 }
 
 .container .backbutton {
-  text-align: left;
+  text-align: left !important;
 }
