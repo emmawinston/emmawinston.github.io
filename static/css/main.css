@@ -228,3 +228,5 @@ a:hover .label-success, a:focus .label-success {
 .container .backbuttonlink {
   text-align: left;
 }
+
+.fa-tilde:before { content: '~'; }
