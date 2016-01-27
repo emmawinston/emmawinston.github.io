@@ -53,7 +53,7 @@
 {% if page.url == "/" %}
 <link rel="canonical" href="{{ site.url }}" />
 {% else %}
-<link rel="canonical" href="{{ site.url }}/{{ page.url }}" />
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 {% endif %}
 
 <script type="application/ld+json">
