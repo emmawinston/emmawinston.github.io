@@ -243,7 +243,7 @@ a:hover .label-success, a:focus .label-success {
 }
 /* The accordion is open */
 .active .accordion-icon:before {
-  content: "\u25B6\U0000FE0E";
+  content: "▶\";
 }
 
 div.panel.panel-default.accordion-content {
