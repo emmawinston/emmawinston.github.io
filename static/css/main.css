@@ -241,8 +241,7 @@ a:hover .label-success, a:focus .label-success {
 
 /* The accordion is closed */
 .accordion-icon:before {
-  content: "▼";
-  font-family: "Raleway", Helvetica, Arial, sans-serif !important;
+  content:  "\f078";
 }
 /* The accordion is open */
 .active .accordion-icon:before {
