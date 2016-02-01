@@ -237,11 +237,11 @@ a:hover .label-success, a:focus .label-success {
 
 /* The accordion is closed */
 .accordion-icon:before {
-    content: "open";
+  content: "open";
 }
 /* The accordion is open */
 .active .accordion-icon:before {
-    content: "close";
+  content: "close";
  }
 
 div.panel.panel-default.accordion-content {
