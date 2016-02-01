@@ -234,3 +234,7 @@ a:hover .label-success, a:focus .label-success {
 .accordion-toggle {cursor: pointer;}
 .accordion-content {display: none;}
 .accordion-content.default {display: block;}
+
+.panel-body {
+  border-bottom: 0 none !important;
+}
