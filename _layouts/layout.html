@@ -28,11 +28,11 @@
       $(this).next().slideToggle('fast');
 
       //Add class
-      $(this).next().addClass('active');
+      $(this).addClass('active');
 
       //Hide the other panels
       $(".accordion-content").not($(this).next()).slideUp('fast');
-      $(".accordion-toggle").not($(this).next()).removeClass('active');
+      $(".accordion-toggle").not($(this)).removeClass('active');
 
     });
   });
