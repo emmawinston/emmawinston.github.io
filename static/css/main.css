@@ -235,6 +235,8 @@ a:hover .label-success, a:focus .label-success {
 .accordion-content {display: none;}
 .accordion-content.default {display: block;}
 
+.accordion-icon { text-align: right;}
+
 /* The accordion is closed */
 .accordion-icon:before {
   content: "▼";
