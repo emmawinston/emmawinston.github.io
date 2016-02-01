@@ -18,6 +18,21 @@
     }
   });
 });</script>
+
+<!-- JS -->
+<script type="text/javascript">
+  $(document).ready(function($) {
+    $('#accordion').find('.accordion-toggle').click(function(){
+
+      //Expand or collapse this panel
+      $(this).next().slideToggle('fast');
+
+      //Hide the other panels
+      $(".accordion-content").not($(this).next()).slideUp('fast');
+
+    });
+  });
+</script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -157,19 +172,5 @@ $('a.back-to-top').click(function() {
   return false;
 });</script>
 
-<!-- JS -->
-<script type="text/javascript">
-  $(document).ready(function($) {
-    $('#accordion').find('.accordion-toggle').click(function(){
-
-      //Expand or collapse this panel
-      $(this).next().slideToggle('fast');
-
-      //Hide the other panels
-      $(".accordion-content").not($(this).next()).slideUp('fast');
-
-    });
-  });
-</script>
   </body>
 </html>
