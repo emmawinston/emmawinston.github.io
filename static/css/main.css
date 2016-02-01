@@ -231,6 +231,6 @@ a:hover .label-success, a:focus .label-success {
 
 .fa-tilde:before { content: '~'; }
 
- .accordion-toggle {cursor: pointer;}
-  .accordion-content {display: none;}
-  .accordion-content.default {display: block;}
+.accordion-toggle {cursor: pointer;}
+.accordion-content {display: none;}
+.accordion-content.default {display: block;}
