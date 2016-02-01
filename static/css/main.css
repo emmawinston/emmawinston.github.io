@@ -237,13 +237,11 @@ a:hover .label-success, a:focus .label-success {
 
 /* The accordion is closed */
 .accordion-icon:before {
-    content: "\f0d7";
-    font-family: FontAwesome; 
+    content: "+";
 }
 /* The accordion is open */
 .active .accordion-icon:before {
-    content: "\f0d8";
-    font-family: FontAwesome; 
+    content: "-";
  }
 
 div.panel.panel-default.accordion-content {
