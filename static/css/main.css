@@ -236,6 +236,5 @@ a:hover .label-success, a:focus .label-success {
 .accordion-content.default {display: block;}
 
 #projects .panel.accordion-content {
--webkit-box-shadow: 0 1px 1px rgba(0,0,0,0) !important;
 box-shadow: 0 1px 1px rgba(0,0,0,0) !important;
 }
