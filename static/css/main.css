@@ -231,7 +231,7 @@ a:hover .label-success, a:focus .label-success {
 
 .fa-tilde:before { content: '~'; }
 
-.accordion-toggle {cursor: pointer; color: #27A822 !important; font-size: 0.8em !important;}
+.accordion-toggle {cursor: pointer; color: #27A822 !important; font-size: 20px !important;}
 .accordion-content {display: none;}
 .accordion-content.default {display: block;}
 
