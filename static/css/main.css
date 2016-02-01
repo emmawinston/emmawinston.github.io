@@ -252,3 +252,7 @@ box-shadow: 0 0 0 rgba(0,0,0,0) !important;
 }
 
 .img-circle {max-width: 190px;}
+
+span.emoji {
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
