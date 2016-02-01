@@ -242,10 +242,12 @@ a:hover .label-success, a:focus .label-success {
 /* The accordion is closed */
 .accordion-icon:before {
   content: "▼";
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
 /* The accordion is open */
 .active .accordion-icon:before {
   content: "▶";
+  font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
 
 div.panel.panel-default.accordion-content {
