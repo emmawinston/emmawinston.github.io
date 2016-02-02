@@ -6,7 +6,7 @@ gems:
 
 # top level stuff you probably don't need to touch
 highlighter: pygments
-markdown: rdiscount
+#markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: pretty
