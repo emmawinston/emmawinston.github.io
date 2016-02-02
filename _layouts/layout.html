@@ -159,6 +159,8 @@
     <script src="{{ site.baseurl }}/static/js/main.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{{ site.baseurl }}/static/js/ie10-viewport-bug-workaround.js"></script>
+
+{% if page.url != "/" %}
 <script>var amountScrolled = 300;
 
 $(window).scroll(function() {
@@ -175,6 +177,6 @@ $('a.back-to-top').click(function() {
   }, 700);
   return false;
 });</script>
-
+{% endif %}
   </body>
 </html>
