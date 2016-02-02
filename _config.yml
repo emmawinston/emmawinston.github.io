@@ -2,6 +2,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-feed
 
 # top level stuff you probably don't need to touch
 highlighter: pygments
