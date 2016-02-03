@@ -165,7 +165,6 @@
     crossorigin="anonymous"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="{{ site.baseurl }}/static/js/docs.min.js"></script>
-    <script src="{{ site.baseurl }}/static/js/main.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script>
       (function () {
@@ -183,6 +182,22 @@
 
 })();
     </script>
+    <!-- page scrolling -->
+    <script>/**
+ * Created by fabiomadeira on 25/02/15.
+ */
+// jQuery for page scrolling feature
+jQuery(document).ready(function(e) {
+    e(".scroll").click(function(t) {
+        t.preventDefault();
+        e("html,body").animate({
+            scrollTop: e(this.hash).offset().top
+        }, 1e3)
+    })
+});</script>
+
+
+
 
 {% if page.url != "/" %}
 <script>var amountScrolled = 300;
