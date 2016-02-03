@@ -3,8 +3,19 @@
   <head>
 <link rel="alternate" href="https://emmawinston.me" hreflang="en-gb" />
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script>$(function() {
+    <script src="https://emmawinston.me/static/js/head.load.min.js" />
+
+    <script>head.js(
+   {jquery: "http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"},
+   {app: "{{ site.baseurl }}/static/js/scripts.js"},
+   {docs: "{{ site.baseurl }}/static/js/docs.min.js"},
+   {main: "{{ site.baseurl }}/static/js/main.js"},
+   {viewport: "{{ site.baseurl }}/static/js/ie10-viewport-bug-workaround.js"},
+   {bootstrap: "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"}
+    );</script>
+
+    <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script-->
+    <!--script>$(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
       var target = $(this.hash);
@@ -17,10 +28,10 @@
       }
     }
   });
-});</script>
+});</script-->
 
 <!-- JS -->
-<script type="text/javascript">
+<!--script type="text/javascript">
   $(document).ready(function($) {
     $('#accordion').find('.accordion-toggle').click(function(){
 
@@ -36,7 +47,7 @@
 
     });
   });
-</script>
+</script-->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -153,19 +164,19 @@
     <!--a href="https://github.com/biomadeira/sustain"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a-->
 
     <!-- Bootstrap core JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
+    <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
     integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script src="{{ site.baseurl }}/static/js/docs.min.js"></script>
+	<!--script src="{{ site.baseurl }}/static/js/docs.min.js"></script>
     <script src="{{ site.baseurl }}/static/js/main.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="{{ site.baseurl }}/static/js/ie10-viewport-bug-workaround.js"></script>
+    <!--script src="{{ site.baseurl }}/static/js/ie10-viewport-bug-workaround.js"></script-->
 
 {% if page.url != "/" %}
-<script>var amountScrolled = 300;
+<!--script>var amountScrolled = 300;
 
 $(window).scroll(function() {
   if ( $(window).scrollTop() > amountScrolled ) {
@@ -180,7 +191,7 @@ $('a.back-to-top').click(function() {
     scrollTop: 0
   }, 700);
   return false;
-});</script>
+});</script-->
 {% endif %}
   </body>
 </html>
