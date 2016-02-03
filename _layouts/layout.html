@@ -45,6 +45,8 @@
     <meta name="description" content="A list of projects by Emma Winston, an academic and musician based in London UK.">
   {% elsif page.url == "/blog/" %}
     <meta name="description" content="Research blog by Emma Winston, an academic and musician based in London UK.">
+  {% elsif page.type == "post" %}
+    <meta name="description" content="{{ page.title }}, an article by Emma Winston">
   {% else %}
     <meta name="description" content="{{ site.description }}">
   {% endif %}
