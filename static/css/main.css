@@ -248,7 +248,7 @@ a:hover .label-success, a:focus .label-success {
   content:  "\f054";
 }
 
-div.panel.panel-default.accordion-content {
+div.panel.panel-default.accordion-content,#projects div.panel.panel-default {
 box-shadow: 0 0 0 rgba(0,0,0,0) !important;
 -webkit-box-shadow: 0 0 0 rgba(0,0,0,0) !important;
 }
