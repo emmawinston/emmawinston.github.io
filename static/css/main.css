@@ -196,6 +196,10 @@ div.footer{
   padding-bottom: 30px;
 }
 
+#projects h3 {
+  margin-bottom: 30px;
+}
+
 a.back-to-top {
   display: none;
   width: 60px;
