@@ -225,7 +225,8 @@ a:hover .label-success, a:focus .label-success {
 }
 
 #projects hr {
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 #about p {
