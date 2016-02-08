@@ -224,6 +224,10 @@ a:hover .label-success, a:focus .label-success {
   font-size: 24px;
 }
 
+#projects hr {
+  margin: 0;
+}
+
 #about p {
   font-size: 20px;
   margin-top: 20px;
