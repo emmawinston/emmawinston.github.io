@@ -189,6 +189,13 @@ div.footer{
   
 }*/
 
+#projects h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 a.back-to-top {
   display: none;
   width: 60px;
