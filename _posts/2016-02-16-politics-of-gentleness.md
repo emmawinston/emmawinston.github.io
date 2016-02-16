@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Declaration Of Openness
+title:  A Declaration Of Openness - conference presentation announcement
 tags:
 - News
 - Blog
