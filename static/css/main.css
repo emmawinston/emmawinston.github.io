@@ -292,5 +292,5 @@ if it's not present, don't show loader */
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url(http://smallenvelop.com/wp-content/uploads/2014/08/Preloader_71.gif) center no-repeat #fff;
+  background: url(https://emmawinston.me/static/img/loader.gif) center no-repeat #fff;
 }
