@@ -6,6 +6,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 
+<script>//paste this code under head tag or in a seperate js file.
+  // Wait for window load
+  $(window).load(function() {
+    // Animate loader off screen
+    $(".se-pre-con").fadeOut("slow");;
+  });</script>
+
     <script>$(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -26,13 +33,6 @@
     document.createElement( "picture" );
   </script>
   <script src="{{ site.baseurl }}/static/js/picturefill.min.js" async></script>
-
-<script>//paste this code under head tag or in a seperate js file.
-  // Wait for window load
-  $(window).load(function() {
-    // Animate loader off screen
-    $(".se-pre-con").fadeOut("slow");;
-  });</script>
 
 <!-- JS -->
 <script type="text/javascript">
