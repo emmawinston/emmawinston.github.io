@@ -2,7 +2,6 @@
 layout: post
 title:  Situations of Knowing - thoughts on giving my first conference paper
 tags:
-- News
 - Blog
 - Research
 - Conferences
