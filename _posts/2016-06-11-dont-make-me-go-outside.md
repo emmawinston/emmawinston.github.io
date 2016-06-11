@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Don't Make Me Go Outside
+title:  Don't Make Me Go Outside / Sound Education Experience
 tags:
 - News
 - Blog
