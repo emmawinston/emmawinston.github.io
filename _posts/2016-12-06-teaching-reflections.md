@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Reflections on teaching
+tags:
+- News
+- Blog
+- Teaching
+---
+
+I have spent the last two months as a teaching assistant for KCL's first-year music course, Disco Cultures. It's the second time I have taught this course, but the dramatic-feeling change in political climate over the past year has imbued the subject matter with a new resonance. Much has been said both about the global backlash against identity politics and marginalised groups, and the 'post-truth society' in which expert opinion and even data becomes meaningless against a backdrop of invented news.
+
+It is impossible to teach 1970s disco and the culture surrounding it in a manner which is apolitical. Despite this, I try not to be polemical in my teaching or to turn off students who may be uncertain of their own views, but to encourage independent thought, taking into account nuances and grey areas, reading closely for 'cracks in the truth' in sources of all kinds (peer-reviewed or otherwise), and to consider, above all, that the people they are researching, discussing and writing about were (and in many cases still are) living, breathing human beings with needs, desires, experiences, preferences and feelings. While the world for ethnic minority and LGBTQ+ people differs today from forty years ago, the roots of marginalisation and oppression don't simply dissolve, but morph, form and reform, and can and should be traced throughout and beyond living memory. 
+
+Above all I want to encourage thoughtfulness and sensitivity in my students, and I have been amazed at the care with which this year's cohort have considered and crafted their debates and questions; many of them have begun to incline themselves towards increasingly intersectional thinking without necessarily having an awareness of the academic theories or voices behind intersectionality as a formal discipline. They offer me hope that critical thinking and sensitivity to social issues are not dead; they have a hunger to understand people (including other students) with different lived experiences from their own, without defaulting to viewing demographics of people as a monolith 'other', and ask constant questions which they nonetheless understand usually have no simple answer, often relating them to current affairs. 
+
+I am increasingly conscious that I could always be doing more both to ask these questions myself and to draw such openness and respect for others out of my students. Teaching this course, particularly this year, has reminded me of the ethical responsibility we as teachers and teaching assistants hold, but has also given me a great deal of hope that particularly young people have the capacity to question and resist against the far-right media voices which are also often the loudest. We make mistakes, we question each other and call each other out, we maintain respect, we *listen*, we consider statistics and their sources but also first-hand experiences and their sources. We try. None of this is a solution to the world we find ourselves in, but I have hope that as the students I have met this year grow and speak and act, they will contribute to a culture of change and understanding. 
