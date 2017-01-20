@@ -302,6 +302,6 @@ a.surveybutton {
                 border-radius: 4px;
                 text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); /* this is a green */}
 
-.surveycontent p {
-  font-size: 0.8em;
+.surveycontent h5 p {
+  font-size: 0.8em !important;
 }
