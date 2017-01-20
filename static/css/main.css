@@ -299,9 +299,11 @@ a.surveybutton {
                 background-color: #27A822;
                 color: white;
                 padding: 20px;
-                margin: 30px auto;
+                margin-top: 30px;
                 border-radius: 4px;
-                text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); /* this is a green */}
+                text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); /* this is a green */
+                text-align: center;
+              }
 
 #surveywrap {display: block; width: 80%; margin: 0 auto;}
 #surveywrap h3 {text-align: center;}
