@@ -295,5 +295,5 @@ if it's not present, don't show loader */
   background: url(https://emmawinston.me/static/img/loader.gif) center no-repeat #fff;
 }
 
-.button {
+a.button {
                 background: #27A822; /* this is a green */}
