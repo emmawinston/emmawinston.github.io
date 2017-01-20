@@ -294,3 +294,6 @@ if it's not present, don't show loader */
   z-index: 9999;
   background: url(https://emmawinston.me/static/img/loader.gif) center no-repeat #fff;
 }
+
+.button {
+                background: #27A822; /* this is a green */}
