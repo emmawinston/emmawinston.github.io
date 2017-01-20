@@ -298,5 +298,6 @@ if it's not present, don't show loader */
 a.surveybutton {
                 background-color: #27A822;
                 color: white;
+                padding: 20px;
                 border-radius: 4px;
                 text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); /* this is a green */}
