@@ -12,6 +12,7 @@ There's been a small flurry of interest across my social media accounts the last
 
 I've also had a few messages from people who are struggling to get it working, since it can be a little tricky. Here's what I've figured out so far about getting it up and running. Please let me know if you have any questions or problems, or if you find any other workarounds. I'll update this post with any new information as and when I get it.
 
+---
 
 ### For OS X users - standalone app
 The standalone app is the simplest option, but only works on OS X.
