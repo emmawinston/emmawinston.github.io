@@ -42,6 +42,6 @@ The default example project in Application Support > Supercollider > ixilang is 
 
 If you are running Windows, as far as I know there is no standalone app. Your only option is to [install Supercollider](https://supercollider.github.io/download) if you don't already have it, and then install ixi as classes for Supercollider. I can't verify this myself, but the good people of Twitter seem to reckon [this version](https://github.com/mortuosplango/ixiLangQt) works. 
 
-Advice given [here](https://twitter.com/EggyHerman/status/858524890827304960) suggest that you need to boot the server in Supercollider, then run XiiLangGUI() to start ixi. 
+Advice given [here](https://twitter.com/EggyHerman/status/858524890827304960) suggests you need to boot the server in Supercollider, then run XiiLangGUI() to start ixi. 
 
 I believe, though again can't verify, that this version does not come with an example project. [This subfolder](https://github.com/emmawinston/ixilang-experiments/tree/master/projectfiles) on my Github contains an example project structure. Create a folder in the user support directory with the title of your project, and place the sample files inside.
