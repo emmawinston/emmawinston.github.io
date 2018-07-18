@@ -20,8 +20,11 @@ If you are on a Mac running Sierra or later, the version linked from the form on
 
 After you run the .dmg, make sure you drag the files somewhere on to your system, rather than trying to run them immediately from within the popup window - another user has told me this worked for them.
 
-**With that said, none of this worked for me.** I was only able to install the ixi standalone app on my Mac by copying it over from an old machine on which I'd installed a working copy back in 2016. I have spoken to Thor about this and he is looking into it, but in the meantime, try the above, and if none of it works, drop me an email and I will send you my own working build to try out. Despite putting both versions through diff checkers I can't figure out where the problem lies, so until Thor has worked it out, I'm happy to supply an alternative build on an individual basis for anyone who gets really stuck.
+**With that said, none of this worked for me.** I was only able to install the ixi standalone app on my Mac by copying it over from an old machine I'd installed a working copy on back in 2016. I don't know why! I have spoken to Thor about this and he is looking into it, but in the meantime, try the above, and if none of it works, drop me an email and I will send you my own working build to try out. 
 
+Despite comparing my build with Thor's through a diff checker, I can't figure out where the problem lies, so until Thor has worked it out, I'm happy to supply an alternative build on an individual basis for anyone who gets really stuck, though I cannot promise it'll work for you.
+
+---
 
 ### For OS X users - Supercollider classes
 If you cannot get the standalone working, *or* you want to use ixi within Supercollider, you will need to install it as a Supercollider extension. If you do not already have Supercollider, [you can get it here](https://supercollider.github.io/download). Download the current version.
@@ -31,6 +34,8 @@ Here's where this gets a little tricky. **The link on the ixi lang website to th
 To run it, open Supercollider, start the server, then run the command XiiLang(). The black ixi lang window should open.
 
 The default example project in Application Support > Supercollider > ixilang is correctly structured, but is blank in the Supercollider version. If you require example files, [this subfolder](https://github.com/emmawinston/ixilang-experiments/tree/master/projectfiles) on my Github contains an example project structure, including files.
+
+---
 
 ### For Windows users - Supercollider classes
 *These instructions are incredibly vague, sorry - I do not have a Windows machine to test on and am piecing this together from what I've read myself.*
