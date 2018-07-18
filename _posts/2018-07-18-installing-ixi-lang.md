@@ -10,7 +10,9 @@ tags:
 
 There's been a small flurry of interest across my social media accounts the last few days around ixi lang, a programming language built on top of Supercollider by [Thor Magnusson](http://www.ixi-audio.net/thor/) for live-coding music, which I've rediscovered and am finding enormously inspiring as a songwriting tool. I've released two songs ([Bloom](https://www.youtube.com/watch?v=MJSRAuPQoA8) and [The Seaside Town](https://www.youtube.com/watch?v=NAyDQdjcNq0)) using it, and will be playing [a show with it in Sheffield in September](https://tickets.partyforthepeople.org/events/4156-algorave-sheffield). You can follow my progress in songwriting with it [at my Github](https://github.com/emmawinston/ixilang-experiments). 
 
-I've also had a few messages from people who are struggling to get it working, since it can be a little tricky. Here's what I've figured out so far about getting it up and running. Please let me know if you have any questions or problems, or if you find any other workarounds. I'll update this post with any new information as and when I get it.
+I've also had a few messages from people who are struggling to get it working, since it can be a little tricky. Here's what I've figured out so far about getting it up and running. Please let me know if you have any questions, or if you find any other workarounds. I'll update this post with any new information as and when I get it.
+
+**Please note, I am not the developer and do not know the nuances of why the various versions do and do not work. This is solely a guide to the installation steps you can take at your end with the versions that already exist online. Bug reports about the software itself should be directed to Thor - I can't help with those!**
 
 ---
 
