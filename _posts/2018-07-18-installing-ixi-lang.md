@@ -23,7 +23,7 @@ After you run the .dmg, make sure you drag the files inside somewhere on to your
 
 **That said, none of this worked for me.** I was only able to install the ixi standalone app on my Mac by copying and pasting the files from an old machine I'd installed it on back in 2016. I don't know why this is! I've spoken to Thor about this and he's looking into it, but in the meantime, try the above, and if none of it works, drop me an email and I will send you my own working build to try out. 
 
-I can't figure out where the problem lies, so until Thor has worked it out, I'm happy to supply an older build individually for anyone who gets really stuck, though I can't promise it'll work for you.
+I can't figure out where the problem lies despite running both my older build and the current live .dmg through a diff checker, so until Thor has worked it out, I'm happy to supply an older build individually for anyone who gets really stuck, though I can't promise it'll work for you.
 
 ---
 
