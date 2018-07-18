@@ -45,4 +45,4 @@ If you are running Windows, as far as I know there is no standalone app. Your on
 
 Advice given [here](https://twitter.com/EggyHerman/status/858524890827304960) suggests you need to boot the server in Supercollider, then run XiiLangGUI() to start ixi. 
 
-I believe, though again can't verify, that this version does not come with an example project. [This subfolder](https://github.com/emmawinston/ixilang-experiments/tree/master/projectfiles) on my Github contains an example project structure. Create a folder in the user support directory with the title of your project, and place the sample files inside.
+I believe, though again can't verify, that this version does not come with an example project. [This subfolder](https://github.com/emmawinston/ixilang-experiments/tree/master/projectfiles) on my Github contains an example project structure. Create a folder in the user support directory with the title of your project, and place the example files inside.
