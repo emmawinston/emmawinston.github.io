@@ -12,7 +12,7 @@ There's been a small flurry of interest across my social media accounts the last
 
 I've also had a few messages from people who are struggling to get it working, since it can be a little tricky. Here's what I've figured out so far about getting it up and running. Please let me know if you have any questions, or if you find any other workarounds. I'll update this post with any new information as and when I get it.
 
-**Please note, I am not the developer and do not know the nuances of why the various versions do and do not work. This is solely a guide to the installation steps you can take at your end with the versions that already exist online. Bug reports about the software itself should be directed to Thor - I can't help with those!**
+**Please note, I am not the developer and do not know the nuances of why the various versions do and do not work. This is solely a guide to installing the versions that already exist online. Bug reports about how the software itself works should be directed to Thor - I can't help with those!**
 
 ---
 
