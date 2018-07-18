@@ -30,7 +30,7 @@ I can't figure out where the problem lies, so until Thor has worked it out, I'm 
 ### For OS X users - Supercollider classes
 If you can't get the standalone app working, *or* you want to use ixi inside Supercollider, you need to install it as a Supercollider extension. If you don't already have Supercollider, [you can get it here](https://supercollider.github.io/download). Download the current version.
 
-Again, we have an out-of-date link complicating things! **The link on the ixi lang website to the Qt GUI Supercollider classes is incorrect, and if you are running a version of Supercollider later than 3.6.5, it will not work.** [Instead, download the Qt classes from here and follow the instructions on the Github readme to install.](https://github.com/thormagnusson/ixiLangQt). 
+Again, we have an out-of-date link complicating things! **The link on the ixi lang website to the Qt GUI Supercollider classes is incorrect, and if you are running a version of Supercollider later than 3.6.5, it will not work.** [Instead, download the Qt classes from here and follow the instructions on the Github readme to install](https://github.com/thormagnusson/ixiLangQt). 
 
 To run it, open Supercollider, start the server, then run the command XiiLang(). The black ixi lang window should open.
 
