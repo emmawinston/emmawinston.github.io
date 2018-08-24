@@ -15,7 +15,7 @@ Ixi requires you to enter the name of a sound, draw bars using brackets, and ent
 Ixi has been around for a little while, has a fairly small userbase (maybe we can change that?) and isn't currently being maintained as actively as it once was, so resources are a little patchy, but, in my opinion at least, it's well worth sticking with. If you want to try it out, here's a list of useful links:
 
 
-###Links
+### Links
 * [The download page](http://www.ixi-audio.net/ixilang/thanks.html) for the current standalone version of ixi. Note that this will only work on OS X.
 
 * [A troubleshooting guide to installing ixi](https://emmawinston.me/2018/07/18/installing-ixi-lang/) (almost certainly the most difficult part). This page also contains a (vague and untested) guide to getting it working on Windows.
