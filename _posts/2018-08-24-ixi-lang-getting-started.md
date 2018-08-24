@@ -16,16 +16,16 @@ Ixi has been around for a little while, has a fairly small userbase (maybe we ca
 
 
 ###Links
-[The download page](http://www.ixi-audio.net/ixilang/thanks.html) for the current standalone version of ixi. Note that this will only work on OS X.
+* [The download page](http://www.ixi-audio.net/ixilang/thanks.html) for the current standalone version of ixi. Note that this will only work on OS X.
 
-[A troubleshooting guide to installing ixi](https://emmawinston.me/2018/07/18/installing-ixi-lang/) (almost certainly the most difficult part). This page also contains a (vague and untested) guide to getting it working on Windows.
+* [A troubleshooting guide to installing ixi](https://emmawinston.me/2018/07/18/installing-ixi-lang/) (almost certainly the most difficult part). This page also contains a (vague and untested) guide to getting it working on Windows.
 
-[A basic video tutorial](https://vimeo.com/14960143) by Thor showing you how to get started.
+* [A basic video tutorial](https://vimeo.com/14960143) by Thor showing you how to get started.
 
-[The ixi Vimeo](https://vimeo.com/ixi) features a series of tutorial videos ranging from simple to more complex, as well as some performances using the software.
+* [The ixi Vimeo](https://vimeo.com/ixi) features a series of tutorial videos ranging from simple to more complex, as well as some performances using the software.
 
-Beyond what is shown in Thor's videos, your best bet is the ixi manual **(click Help, then ixi lang help, when ixi is open)**.
+* Beyond what is shown in Thor's videos, your best bet is the ixi manual **(click Help, then ixi lang help, when ixi is open)**.
 
-[*This Is Fine*](https://fractalmeat.bandcamp.com/album/this-is-fine), an instrumental techno album made in ixi lang by Leeds-based artist Belisha Beacon.
+* [*This Is Fine*](https://fractalmeat.bandcamp.com/album/this-is-fine), an instrumental techno album made in ixi lang by Leeds-based artist Belisha Beacon.
 
-I'm releasing an ixi mini-album as Deerful, called *Tell Me I Can Fix This On My Own*, on September 1st. Keep an eye on [my Bandcamp](http://deerful.bandcamp.com), or iTunes/Spotify/whatever your chosen method of music consumption is, if you prefer.
+* I'm releasing an ixi mini-album as Deerful, called *Tell Me I Can Fix This On My Own*, on September 1st. Keep an eye on [my Bandcamp](http://deerful.bandcamp.com), or iTunes/Spotify/whatever your chosen method of music consumption is, if you prefer.
