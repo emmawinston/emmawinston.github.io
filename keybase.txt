@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/emmaw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emmawinston.me
+  * I am emmaw (https://keybase.io/emmaw) on keybase.
+  * I have a public key ASDo13sZh2iol9HxQ-iOz6atqiTANfBEXO0rBTToNwHLcQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e8d77b198768a897d1f143e88ecfa6adaa24c035f0445ced2b0534e83701cb710a",
+      "host": "keybase.io",
+      "kid": "0120e8d77b198768a897d1f143e88ecfa6adaa24c035f0445ced2b0534e83701cb710a",
+      "uid": "94c0883843c8997da3347b83b8ffe819",
+      "username": "emmaw"
+    },
+    "merkle_root": {
+      "ctime": 1540157899,
+      "hash": "e3c65774294cbaf31bc19d26bba52e0f91885688b2209d2777eccaf9b4a9f80aa06456891bce9a8db0f275b28093d3beafc3509b5897dcf1655825fc43f51118",
+      "hash_meta": "385511bcbfd2ccc367596cec080dfc031433ccb3540c5a93ff587361e0647a27",
+      "seqno": 3828889
+    },
+    "service": {
+      "entropy": "LPC6CJUn+D3sDAGA6MU3vLg7",
+      "hostname": "emmawinston.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1540157919,
+  "expire_in": 504576000,
+  "prev": "655a495a774eeaa0f8b4df6cfa19c7432f986dd8012d81479bd977e3253d1c76",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6Nd7GYdoqJfR8UPojs+mraokwDXwRFztKwU06DcBy3EKp3BheWxvYWTESpcCB8QgZVpJWndO6qD4tN9s+hnHQy+YbdgBLYFHm9l34yU9HHbEIANvgaocIYDvpRi6Cmd7yqP54I0MYS0m0uoOTf5C6WwYAgHCo3NpZ8RA9XwC0ZvG48ZnxPqD4qsl0Bgnp7aqbjtr04/q4+UzUZMXTevMWWPMVY0VoY4Buk5nIDxeBTwLYhkKlGYq39pcDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEeax3O9WyM1E/OplUp3nDNn8RYAfXLqUJKeBBP08Tano3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emmaw
+
+==================================================================
