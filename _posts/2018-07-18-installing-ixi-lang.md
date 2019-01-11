@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Installing ixi lang - tips and tricks
+title:  Installing ixi lang - tips and tricks (updated 11/01/2019)
 tags:
 - News
 - Blog
@@ -36,6 +36,6 @@ If you're on Windows, there is no standalone app, but you can use ixi inside the
 
 **Ignore the instructions on the ixi lang website** - the links are incorrect, and the released version does not work on newer versions of Supercollider.
 
-[Try these instructions](https://drive.google.com/open?id=1IxaBenVLOjEx8dwtG_itrF16Z0NodTTfkZAbhgjW2Ts), using a version of the software edited by [Lucy Cheesman](https://sonawomen.co.uk/about/). In OS X, initialising projects and assigning samples seems to be extremely buggy; I cannot get ixi to automatically create the files it needs to run, so I have provided links to do this manually. 
+[Try these instructions](https://drive.google.com/open?id=1IxaBenVLOjEx8dwtG_itrF16Z0NodTTfkZAbhgjW2Ts), using a version of the software edited by [Lucy of Heavy Lifting](http://twitter.com/abelstaites). In OS X, initialising projects and assigning samples seems to be extremely buggy; I cannot get ixi to automatically create the files it needs to run, so I have provided links to do this manually. 
 
 I have not tested it in Windows, but according to Lucy it should run smoothly. 
