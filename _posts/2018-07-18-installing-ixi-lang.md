@@ -39,3 +39,5 @@ If you're on Windows, there is no standalone app, but you can use ixi inside the
 [Try these instructions](https://drive.google.com/open?id=1IxaBenVLOjEx8dwtG_itrF16Z0NodTTfkZAbhgjW2Ts), using a version of the software edited by [Lucy of Heavy Lifting](http://twitter.com/abelstaites). In OS X, initialising projects and assigning samples seems to be extremely buggy; I cannot get ixi to automatically create the files it needs to run, so I have provided links to do this manually. 
 
 I have not tested it in Windows, but according to Lucy it should run smoothly. 
+
+Please let me know how this works for you or if anything in the guide is unclear so I can update the instructions accordingly!
