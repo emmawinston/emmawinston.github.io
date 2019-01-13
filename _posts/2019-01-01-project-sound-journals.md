@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Sound Journals
-summary: Found sound art
+summary: Location-based found sound art
 tags:
 - Project
 ---
