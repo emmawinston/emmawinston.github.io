@@ -1,6 +1,6 @@
 ---
 layout: project
-title: disquietude by |end| and Annie Goh
+title: disquietude
 summary: Python code to transform tweets into SuperCollider data
 tags:
 - Project
