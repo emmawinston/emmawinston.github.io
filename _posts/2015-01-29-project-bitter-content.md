@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Bitter Content: YouTube, the ukulele and the rise of participatory commodification
+title: Bitter Content - YouTube, the ukulele and the rise of participatory commodification
 summary: Conference talk
 tags:
 - Project
