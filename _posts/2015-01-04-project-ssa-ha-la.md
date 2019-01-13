@@ -1,14 +1,12 @@
 ---
 layout: project
 title: Ssa-ha-la
-summary: Twitter bot posting hourly generative graphic scores
+summary: Dadaist sound art piece
 tags:
 - Project
 ---
 
-<a href="http://citiesandmemory.com/dadasounds/">Ssa-ha-la - Cities and Memory: Dada Sounds</a> (sound art) - 5th February 2016</strong>
-
-Cities and Memory is a global field recording &amp; sound art work that presents both the present reality of a place, but also its imagined, alternative counterpart – remixing the world, one sound at at time. The Dada Sounds project marks a century of Dadaism by applying the techniques and practices of Dada to field recordings from around the world, bringing a Dadaist approach to the concepts of sound, place and memory.
+Cities and Memory is a global field recording &amp; sound art work that presents both the present reality of a place, but also its imagined, alternative counterpart – remixing the world, one sound at at time. <a href="http://citiesandmemory.com/dadasounds/">The Dada Sounds project</a>, released on 5th February 2016, marks a century of Dadaism by applying the techniques and practices of Dada to field recordings from around the world, bringing a Dadaist approach to the concepts of sound, place and memory.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1336284631/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/track=4223775533/transparent=true/" seamless><a href="http://citiesandmemory.bandcamp.com/album/dada-sounds">Dada Sounds by Emma Winston</a></iframe>
 
