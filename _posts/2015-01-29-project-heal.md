@@ -1,7 +1,7 @@
 ---
 layout: project
 title: heal
-summary: instrumental chillout album
+summary: Instrumental chillout album
 tags:
 - Project
 ---
