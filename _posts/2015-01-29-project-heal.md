@@ -1,6 +1,6 @@
 ---
 layout: project
-title: heal
+title: heartsease - heal
 summary: Instrumental chillout album
 tags:
 - Project

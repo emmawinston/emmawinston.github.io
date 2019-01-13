@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tell Me I Can Fix This On My Own
+title: Deerful - Tell Me I Can Fix This On My Own
 summary: Live-coded mini-album
 tags:
 - Project

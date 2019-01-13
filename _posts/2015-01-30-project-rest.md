@@ -1,6 +1,6 @@
 ---
 layout: project
-title: rest
+title: heartsease - rest
 summary: instrumental drone album
 tags:
 - Project
