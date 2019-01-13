@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Don't Make Me Go Outside: Feminine melancholy, recovery, and rejecting resilience through electronic music
+title: Don't Make Me Go Outside - Feminine melancholy, recovery, and rejecting resilience through electronic music
 summary: Conference talk
 tags:
 - Project
