@@ -2,7 +2,7 @@
 layout: project
 title:  test
 tags:
-- project
+- Project
 ---
 
 test project
