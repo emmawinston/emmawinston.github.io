@@ -6,7 +6,6 @@ tags:
 - Project
 ---
 
-<img src="https://emmawinston.me/assets/images/myfacewhen1.png" alt="Screenshot of game start screen encouraging players to build their own emoji" width="100%"/>
 <img src="https://emmawinston.me/assets/images/myfacewhen2.png" alt="Screenshot of gameplay showing two winning composite emoji, one with a halo blowing a kiss and the other with three eyes, a protruding tongue and a snoring symbol" width="100%"/>
 
 Commissioned for [Now Play This 2019](https://nowplaythis.net/2019-festival/), an independent games festival running at Somerset House in London with the theme of 'community', *My Face When* is a quick-fire, single-round, multiplayer game, in which players race against the clock to put together the best (or maybe just funniest) emoji face from a stack of components in response to a surreal, procedurally-generated prompt. The commission was to build a game to create momentary communities within the space of the exhibition; the game will not run until four players have stated intent to play, and chaotic interaction (including stealing each other's emoji components and voting for the player's own emoji) is encouraged.
