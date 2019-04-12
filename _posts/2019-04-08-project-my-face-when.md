@@ -1,7 +1,7 @@
 ---
 layout: project
 title: My Face When
-summary: Local multiplayer game
+summary: Multiplayer emoji construction game
 tags:
 - Project
 ---
