@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tell Me I Can Fix This On My Own: songwriting with code as a non-programmer
+title: Tell Me I Can Fix This On My Own - songwriting with code as a non-programmer
 summary: Dorkbot London talk
 tags:
 - Project
