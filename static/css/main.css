@@ -170,6 +170,10 @@ body {
   font-size: 18px;
 }
 
+.projectpost img {
+  max-width: 100%;
+}
+
 /* Footer 
 -------------------------------------------------- */
 
