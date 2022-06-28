@@ -6,7 +6,7 @@ tags:
 - Project
 ---
 
-<a href="https://deerful.itch.io/pathways-desire-lines">Play Pathways, Desire Lines here</a>
+<a href="https://deerful.itch.io/pathways-desire-lines"><img src="pathways-header.png" alt="Image of a pixel ukulele on a brown background, asking the player to press the arrow key to start" /></a>
 
 "Pathways, Desire Lines" represented an attempt to condense some of the core findings and literature of my doctoral thesis into a minimalist and accessible multimedia form, which was presented as an "interactive poster" at the CHASE DTP Encounters conference in 2021. 
 

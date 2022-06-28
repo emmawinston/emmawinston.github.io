@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Pathways, Desire Lines
-summary: Interactive video game
+title: Unconditional Positive Regard
+summary: Printable zine
 tags:
 - Project
 ---
