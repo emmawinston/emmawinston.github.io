@@ -9,3 +9,5 @@ tags:
 <a href="https://deerful.itch.io/infinite-nothing"><img src="https://emmawinston.me/assets/images/infinite-nothing.png" alt="Green and black pixel art of a simple computer reading 'Infinite - Nothing'"></a>
 
 <a href="https://deerful.itch.io/infinite-nothing">'Infinite - Nothing'</a> is a poem considering the nature of consciousness, the ethics of empathy, artificial intelligence, and Pascal's Wager. It is presented (somewhat) interactively using the Bitsy game engine. 
+
+Each time the reader pages through the text, the application randomly corrupts its own sprite data, affording the computer creative agency of its own.
